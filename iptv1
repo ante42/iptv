@@ -1,0 +1,123 @@
+#EXTINF:-1 group-title="Sverige",
+https://iptv-org.github.io/iptv/countries/se.m3u
+#EXTINF:-1 group-title="Armenien",
+https://iptv-org.github.io/iptv/countries/am.m3u
+#EXTINF:-1 group-title="Tropikerna",
+https://iptv-org.github.io/iptv/countries/aw.m3u
+https://iptv-org.github.io/iptv/countries/bs.m3u
+https://iptv-org.github.io/iptv/countries/bb.m3u
+https://iptv-org.github.io/iptv/countries/fj.m3u
+https://iptv-org.github.io/iptv/countries/cv.m3u
+https://iptv-org.github.io/iptv/countries/jm.m3u	
+#EXTINF:-1 group-title="Australien",
+https://iptv-org.github.io/iptv/countries/au.m3u
+#EXTINF:-1 group-title="Österrike",
+https://iptv-org.github.io/iptv/countries/at.m3u
+#EXTINF:-1 group-title="Belgien",
+https://iptv-org.github.io/iptv/countries/be.m3u
+#EXTINF:-1 group-title="Brasilien",
+https://iptv-org.github.io/iptv/countries/br.m3u
+#EXTINF:-1 group-title="Kanada",
+https://iptv-org.github.io/iptv/countries/ca.m3u
+#EXTINF:-1 group-title="Kanada",
+https://iptv-org.github.io/iptv/countries/hr.m3u
+#EXTINF:-1 group-title="Cypern",
+https://iptv-org.github.io/iptv/countries/cy.m3u
+#EXTINF:-1 group-title="Tjeckien",
+https://iptv-org.github.io/iptv/countries/cz.m3u	
+#EXTINF:-1 group-title="Danmark",
+https://iptv-org.github.io/iptv/countries/dk.m3u
+#EXTINF:-1 group-title="Frankrike",
+https://iptv-org.github.io/iptv/countries/fr.m3u	
+#EXTINF:-1 group-title="Tyskland",
+https://iptv-org.github.io/iptv/countries/de.m3u
+#EXTINF:-1 group-title="Grekland",
+https://iptv-org.github.io/iptv/countries/gr.m3u	
+#EXTINF:-1 group-title="Hong Kong",
+https://iptv-org.github.io/iptv/countries/hk.m3u	
+#EXTINF:-1 group-title="Island",
+https://iptv-org.github.io/iptv/countries/is.m3u
+#EXTINF:-1 group-title="Indien",
+https://iptv-org.github.io/iptv/countries/in.m3u
+#EXTINF:-1 group-title="International",
+https://iptv-org.github.io/iptv/countries/int.m3u
+#EXTINF:-1 group-title="Irland",
+https://iptv-org.github.io/iptv/countries/ie.m3u
+#EXTINF:-1 group-title="Italien",
+https://iptv-org.github.io/iptv/countries/it.m3u
+#EXTINF:-1 group-title="Japan",
+https://iptv-org.github.io/iptv/countries/jp.m3u
+#EXTINF:-1 group-title="Balkan",
+https://iptv-org.github.io/iptv/countries/me.m3u
+https://iptv-org.github.io/iptv/countries/hr.m3u
+https://iptv-org.github.io/iptv/countries/rs.m3u
+https://iptv-org.github.io/iptv/countries/ba.m3u
+#EXTINF:-1 group-title="Holland",
+https://iptv-org.github.io/iptv/countries/nl.m3u
+#EXTINF:-1 group-title="Nya Zeland",
+https://iptv-org.github.io/iptv/countries/nz.m3u
+#EXTINF:-1 group-title="Norge",
+https://iptv-org.github.io/iptv/countries/no.m3u
+#EXTINF:-1 group-title="Polen",
+https://iptv-org.github.io/iptv/countries/pl.m3u
+#EXTINF:-1 group-title="Portugal",
+https://iptv-org.github.io/iptv/countries/pt.m3u
+#EXTINF:-1 group-title="Ryssland",
+https://iptv-org.github.io/iptv/countries/ru.m3u
+#EXTINF:-1 group-title="Singapore",
+https://iptv-org.github.io/iptv/countries/sg.m3u
+#EXTINF:-1 group-title="Spanien",
+https://iptv-org.github.io/iptv/countries/es.m3u
+#EXTINF:-1 group-title="Schweiz",
+https://iptv-org.github.io/iptv/countries/ch.m3u
+#EXTINF:-1 group-title="Turkiet",
+https://iptv-org.github.io/iptv/countries/tr.m3u
+#EXTINF:-1 group-title="England",
+https://iptv-org.github.io/iptv/countries/uk.m3u
+#EXTINF:-1 group-title="USA",
+https://iptv-org.github.io/iptv/countries/us.m3u
+#EXTINF:-1 group-title="Arabiska",
+https://iptv-org.github.io/iptv/languages/ara.m3u
+#EXTINF:-1 group-title="Biz",
+https://iptv-org.github.io/iptv/categories/business.m3u
+#EXTINF:-1 group-title="Komedi",
+https://iptv-org.github.io/iptv/categories/comedy.m3u
+#EXTINF:-1 group-title="Dokumentär",
+https://iptv-org.github.io/iptv/categories/documentary.m3u
+#EXTINF:-1 group-title="Utbildning",
+https://iptv-org.github.io/iptv/categories/education.m3u
+#EXTINF:-1 group-title="Nöje",
+https://iptv-org.github.io/iptv/categories/entertainment.m3u
+#EXTINF:-1 group-title="Familj",
+https://iptv-org.github.io/iptv/categories/family.m3u
+#EXTINF:-1 group-title="Mode",
+https://iptv-org.github.io/iptv/categories/fashion.m3u
+#EXTINF:-1 group-title="Klasisk",
+https://iptv-org.github.io/iptv/categories/classic.m3u
+#EXTINF:-1 group-title="Mat",
+https://iptv-org.github.io/iptv/categories/food.m3u
+#EXTINF:-1 group-title="Hälsa",
+https://iptv-org.github.io/iptv/categories/health.m3u
+#EXTINF:-1 group-title="Historia",
+https://iptv-org.github.io/iptv/categories/history.m3u
+#EXTINF:-1 group-title="Hobby",
+https://iptv-org.github.io/iptv/categories/hobby.m3u
+#EXTINF:-1 group-title="Barn",
+https://iptv-org.github.io/iptv/categories/kids.m3u
+#EXTINF:-1 group-title="Livsstil",
+https://iptv-org.github.io/iptv/categories/lifestyle.m3u
+#EXTINF:-1 group-title="Film",
+https://iptv-org.github.io/iptv/categories/movies.m3u
+#EXTINF:-1 group-title="Muwik",
+https://iptv-org.github.io/iptv/categories/music.m3u
+#EXTINF:-1 group-title="Nyheter",
+https://iptv-org.github.io/iptv/categories/news.m3u
+#EXTINF:-1 group-title="Sport",
+https://iptv-org.github.io/iptv/categories/sport.m3u
+#EXTINF:-1 group-title="Resor",
+https://iptv-org.github.io/iptv/categories/travel.m3u
+#EXTINF:-1 group-title="Väder",
+https://iptv-org.github.io/iptv/categories/weather.m3u
+#EXTINF:-1 group-title="X-Vuxen-X",
+https://iptv-org.github.io/iptv/categories/xxx.m3u
+#EXTINF:-1 group-title="Övrigt",
